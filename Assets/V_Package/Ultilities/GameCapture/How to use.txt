@@ -1,0 +1,1 @@
+Open game capture window at Tools/ZeroX/Game Capture

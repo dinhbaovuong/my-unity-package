@@ -1,0 +1,2 @@
+Để tránh việc phải import thêm plugin AntiCheat của code stage. 
+Những gì trong thư mục này được tách từ tool đó để sử dụng ngay mà ko cần import thêm

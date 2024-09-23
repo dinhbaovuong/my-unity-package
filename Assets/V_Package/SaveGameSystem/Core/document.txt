@@ -1,0 +1,5 @@
+1, Cách thêm 1 NodeType
+Thêm trong enum NodeType
+Thêm các hàm thao tác với value trong SGNode Primitive như các type đã có
+Thêm case trong NodeTypeHandler
+Thêm các hàm thao tác với childValue trong SGNode_Array và Database_Array

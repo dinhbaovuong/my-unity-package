@@ -1,0 +1,16 @@
+{
+    "name": "VPackage.SaveGameSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cc7665dfee6864185bd3454abf0500d0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
